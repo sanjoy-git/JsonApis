@@ -1,6 +1,7 @@
 {
   "name": "John",
   "lastName": "Doe",
+  "roll": 30,
   "age": 30,
   "email": "john.doe@example.com",
   "address": {
